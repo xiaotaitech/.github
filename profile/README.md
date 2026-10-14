@@ -11,7 +11,7 @@
 
 ## 中文
 
-老李写了十几年代码，现在看 AI 怎么写。这里放小态公开的 App 和工具。
+不慌，也不盲从。看清 AI 能做什么、不能做什么，再把它用进写代码和做产品里。这里放小态公开的 App 和工具。
 
 ### 公开项目
 
@@ -27,7 +27,7 @@
 
 ## English
 
-Lao Li has been writing code for 15+ years, and now watches how AI writes it. Xiaotai's public apps and tools live here.
+No panic, no blind faith. See clearly what AI can and can't do, then put it to work in writing code and building products. Xiaotai's public apps and tools live here.
 
 ### Public projects
 
