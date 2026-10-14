@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://www.xiaotai.tech"><img src="banner.png" alt="小态科技 xiaotai：AI 时代，保持好状态。" width="100%"></a>
+  <a href="https://www.xiaotai.tech">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+      <img src="banner-light.png" alt="小态科技 xiaotai：AI 时代，保持好状态。" width="100%">
+    </picture>
+  </a>
 </p>
 
 **小态科技**：AI 时代，保持好状态。老李写了十几年代码，现在看 AI 怎么写；这里放公开的 App 和工具。
