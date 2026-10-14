@@ -38,4 +38,4 @@ Lao Li has been writing code for 15+ years, and now watches how AI writes it. Xi
 
 ### Elsewhere
 
-- Website: [www.xiaotai.tech](https://www.xiaotai.tech/en/): writing code and building things alongside AI
+- Website: [www.xiaotai.tech](https://www.xiaotai.tech): writing code and building things alongside AI (in Chinese for now)
