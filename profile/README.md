@@ -7,9 +7,11 @@
   </a>
 </p>
 
-老李写了十几年代码，现在看 AI 怎么写。这里放小态公开的 App 和工具。
+<p align="center"><a href="#中文">中文</a> · <a href="#english">English</a></p>
 
-*Lao Li has written code for 15+ years and now watches how AI writes it. Xiaotai's public apps and tools live here.*
+## 中文
+
+老李写了十几年代码，现在看 AI 怎么写。这里放小态公开的 App 和工具。
 
 ### 公开项目
 
@@ -22,3 +24,18 @@
 
 - 网站：[www.xiaotai.tech](https://www.xiaotai.tech)：怎么和 AI 一起写代码、做产品
 - 头条号：老李写代码
+
+## English
+
+Lao Li has been writing code for 15+ years, and now watches how AI writes it. Xiaotai's public apps and tools live here.
+
+### Public projects
+
+| Project | What it does |
+|---|---|
+| [Yunting](https://github.com/xiaotaitech/yunting) | Turns the audiobooks in your own Baidu Netdisk into a listening app (Flutter, Android / iOS) |
+| [git-sync](https://github.com/xiaotaitech/git-sync) | Syncs GitHub repos to local folders on your phone; works well with Obsidian |
+
+### Elsewhere
+
+- Website: [www.xiaotai.tech](https://www.xiaotai.tech/en/): writing code and building things alongside AI
