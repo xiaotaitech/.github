@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.xiaotai.tech">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-      <img src="banner-light.png" alt="AI 时代，保持好状态。Stay in good shape in the age of AI." width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="slogan-dark.png">
+      <img src="slogan-light.png" alt="AI 时代，保持好状态。Stay in good shape in the age of AI." width="100%">
     </picture>
   </a>
 </p>
